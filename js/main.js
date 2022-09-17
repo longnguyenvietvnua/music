@@ -30,32 +30,32 @@ const app = {
     songs: [{
             name: "Someone You Loved",
             singer: "Lewis Capaldi",
-            path: "../app/music/1.mp3",
-            image: "../app/img/1.jpg"
+            path: "./music/1.mp3",
+            image: "./img/1.jpg"
         },
         {
             name: "Leave the door open",
             singer: "Bruno Mars, Anderson Paak, Silk Sonic",
-            path: "../app/music/2.mp3",
-            image: "../app/img/2.jpg"
+            path: "./music/2.mp3",
+            image: "./img/2.jpg"
         },
         {
             name: "Kiss me more",
             singer: "Doja Cat ft SZA",
-            path: "../app/music/3.mp3",
-            image: "../app/img/3.jpg"
+            path: "./music/3.mp3",
+            image: "./img/3.jpg"
         },
         {
             name: "Montero",
             singer: "Lil Nas X",
-            path: "../app/music/4.mp3",
-            image: "../app/img/4.jpg"
+            path: "./music/4.mp3",
+            image: "./img/4.jpg"
         },
         {
             name: "Bad Habits",
             singer: "Ed Sheeran",
-            path: "../app/music/5.mp3",
-            image: "../app/img/5.jpg"
+            path: "./music/5.mp3",
+            image: "./img/5.jpg"
         }
 
     ],
